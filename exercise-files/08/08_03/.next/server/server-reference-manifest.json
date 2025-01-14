@@ -1,0 +1,26 @@
+{
+  "node": {
+    "2c55e472515f0f1124e9f05fb2e6a1b130e0c6e9": {
+      "workers": {
+        "app/blog/about/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5Ctests%5C%5Cnext%5C%5Clearning-nextjs--codespaces--5914444%5C%5Cexercise-files%5C%5C08%5C%5C08_03%5C%5Csrc%5C%5Capp%5C%5Cui%5C%5Ccomponents%5C%5Clogin%5C%5Cauth-component.tsx%22%2C%5B%22%24%24ACTION_0%22%2C%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=!",
+        "app/blog/posts/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5Ctests%5C%5Cnext%5C%5Clearning-nextjs--codespaces--5914444%5C%5Cexercise-files%5C%5C08%5C%5C08_03%5C%5Csrc%5C%5Capp%5C%5Cui%5C%5Ccomponents%5C%5Clogin%5C%5Cauth-component.tsx%22%2C%5B%22%24%24ACTION_0%22%2C%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/blog/about/page": "rsc",
+        "app/blog/posts/page": "rsc"
+      }
+    },
+    "96f07050c873f02e593866ddf43af69319fa244f": {
+      "workers": {
+        "app/blog/about/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5Ctests%5C%5Cnext%5C%5Clearning-nextjs--codespaces--5914444%5C%5Cexercise-files%5C%5C08%5C%5C08_03%5C%5Csrc%5C%5Capp%5C%5Cui%5C%5Ccomponents%5C%5Clogin%5C%5Cauth-component.tsx%22%2C%5B%22%24%24ACTION_0%22%2C%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=!",
+        "app/blog/posts/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5Ctests%5C%5Cnext%5C%5Clearning-nextjs--codespaces--5914444%5C%5Cexercise-files%5C%5C08%5C%5C08_03%5C%5Csrc%5C%5Capp%5C%5Cui%5C%5Ccomponents%5C%5Clogin%5C%5Cauth-component.tsx%22%2C%5B%22%24%24ACTION_0%22%2C%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/blog/about/page": "rsc",
+        "app/blog/posts/page": "rsc"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "RLJgYxkP9zkui3wJcC4ygMR+4sIU31z1kod2xR2FMHs="
+}
