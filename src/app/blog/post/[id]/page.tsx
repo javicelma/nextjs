@@ -13,6 +13,6 @@ export default async function Page({ params }: { params: { id: string } }) {
   return (
     <>
       <h1>Post</h1>
-      {post && <Post {...post} />}
+      {post && <Post id={post.id} title={post.title} content={post.content} date={post.date} />}
     </>)
 }
